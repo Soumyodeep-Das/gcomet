@@ -1,9 +1,9 @@
 # gcomet
 
-[![npm version](https://badge.fury.io/js/gcomet-cli.svg)](https://badge.fury.io/js/gcomet-cli)
+[![npm version](https://badge.fury.io/js/gcomet.svg)](https://badge.fury.io/js/gcomet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/yourusername/gcomet-cli/workflows/Node.js%20CI/badge.svg)](https://github.com/yourusername/gcomet-cli/actions)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/gcomet-cli/badge.svg?branch=main)](https://coveralls.io/github/yourusername/gcomet-cli?branch=main)
+[![Node.js CI](https://github.com/yourusername/gcomet/workflows/Node.js%20CI/badge.svg)](https://github.com/yourusername/gcomet/actions)
+[![Coverage Status](https://coveralls.io/repos/github/yourusername/gcomet/badge.svg?branch=main)](https://coveralls.io/github/yourusername/gcomet?branch=main)
 
 **AI-powered Git commit message generator that creates professional, conventional commit messages in seconds.**
 
@@ -40,19 +40,19 @@ gcomet analyzes your staged changes and generates clear, descriptive commit mess
 ### npm (Recommended)
 
 ```bash
-npm install -g gcomet-cli
+npm install -g gcomet
 ```
 
 ### Yarn
 
 ```bash
-yarn global add gcomet-cli
+yarn global add gcomet
 ```
 
 ### pnpm
 
 ```bash
-pnpm add -g gcomet-cli
+pnpm add -g gcomet
 ```
 
 ### Verify Installation
@@ -437,7 +437,7 @@ DEBUG=gcomet* gcomet generate
 3. **Document conventions:** Add to your contributing guidelines
    ```markdown
    ## Commit Messages
-   This project uses [gcomet](https://github.com/yourusername/gcomet-cli) 
+   This project uses [gcomet](https://github.com/yourusername/gcomet) 
    for automated commit message generation following Conventional Commits.
    ```
 
@@ -499,8 +499,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Quick Start for Contributors
 
 ```bash
-git clone https://github.com/yourusername/gcomet-cli.git
-cd gcomet-cli
+git clone https://github.com/yourusername/gcomet.git
+cd gcomet
 npm install
 npm run dev
 ```
@@ -530,4 +530,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Made for developers who care about clean commit history.**
 
-[Report Bug](https://github.com/yourusername/gcomet-cli/issues) · [Request Feature](https://github.com/yourusername/gcomet-cli/issues) · [Documentation](https://github.com/yourusername/gcomet-cli/wiki)
+[Report Bug](https://github.com/yourusername/gcomet/issues) · [Request Feature](https://github.com/yourusername/gcomet/issues) · [Documentation](https://github.com/yourusername/gcomet/wiki)
