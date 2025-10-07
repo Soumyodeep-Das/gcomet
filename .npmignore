@@ -1,0 +1,14 @@
+node_modules/
+__tests__
+src/
+coverage/
+.env
+tsconfig.json
+.git
+.gitignore
+pnpm-lock.yaml
+pnpm-workspace.yaml
+*.log
+tslint.json
+.nyc_output/
+dist/*.map
