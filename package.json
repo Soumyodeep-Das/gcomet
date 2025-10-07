@@ -1,6 +1,6 @@
 {
   "name": "gcomet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "AI-powered Git commit message generator using GitHub Models",
   "main": "dist/index.js",
   "bin": {

@@ -2,8 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/gcomet.svg)](https://badge.fury.io/js/gcomet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/yourusername/gcomet/workflows/Node.js%20CI/badge.svg)](https://github.com/yourusername/gcomet/actions)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/gcomet/badge.svg?branch=main)](https://coveralls.io/github/yourusername/gcomet?branch=main)
+[![Node.js CI](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/Soumyodeep-Das/gcomet/actions)
+[![Coverage Status](https://coveralls.io/repos/github/Soumyodeep-Das/gcomet/badge.svg?branch=main)](https://coveralls.io/github/Soumyodeep-Das/gcomet?branch=main)
 
 **AI-powered Git commit message generator that creates professional, conventional commit messages in seconds.**
 
@@ -437,7 +437,7 @@ DEBUG=gcomet* gcomet generate
 3. **Document conventions:** Add to your contributing guidelines
    ```markdown
    ## Commit Messages
-   This project uses [gcomet](https://github.com/yourusername/gcomet) 
+   This project uses [gcomet](https://github.com/Soumyodeep-Das/gcomet) 
    for automated commit message generation following Conventional Commits.
    ```
 
@@ -499,7 +499,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Quick Start for Contributors
 
 ```bash
-git clone https://github.com/yourusername/gcomet.git
+git clone https://github.com/Soumyodeep-Das/gcomet.git
 cd gcomet
 npm install
 npm run dev
@@ -530,4 +530,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Made for developers who care about clean commit history.**
 
-[Report Bug](https://github.com/yourusername/gcomet/issues) · [Request Feature](https://github.com/yourusername/gcomet/issues) · [Documentation](https://github.com/yourusername/gcomet/wiki)
+[Report Bug](https://github.com/Soumyodeep-Das/gcomet/issues) · [Request Feature](https://github.com/Soumyodeep-Das/gcomet/issues) · [Documentation](https://github.com/Soumyodeep-Das/gcomet/wiki)
