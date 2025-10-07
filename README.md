@@ -2,7 +2,6 @@
 
 [![npm version](https://badge.fury.io/js/gcomet.svg)](https://badge.fury.io/js/gcomet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/Soumyodeep-Das/gcomet/actions)
 [![Coverage Status](https://coveralls.io/repos/github/Soumyodeep-Das/gcomet/badge.svg?branch=main)](https://coveralls.io/github/Soumyodeep-Das/gcomet?branch=main)
 
 **AI-powered Git commit message generator that creates professional, conventional commit messages in seconds.**
