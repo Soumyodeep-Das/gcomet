@@ -1,6 +1,6 @@
 {
   "name": "gcomet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI-powered Git commit message generator using GitHub Models",
   "main": "dist/index.js",
   "bin": {
@@ -17,8 +17,17 @@
     "commit",
     "ai",
     "github",
-    "conventional-commits"
+    "conventional-commits",
+    "git-commit",
+    "commit-message",
+    "git-commit-message",
+    "commit-message-generator",
+    "code-review"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soumyodeep-Das/gcomet"
+  },
   "author": "Soumyodeep-Das",
   "license": "MIT",
   "packageManager": "pnpm@10.15.1",
